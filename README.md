@@ -1,4 +1,4 @@
-shomium
+shomium   [ v0.02 ]
 
 Android Chromium and iOS WebKit Artefact Parser
 
