@@ -1,0 +1,6 @@
+PyQt5
+pandas
+numpy
+opencv-python
+pillow
+filetype
