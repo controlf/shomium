@@ -217,6 +217,7 @@ class CleanTemp(QThread):
     # Cleans the temporary directory in the background at startup
     def __init__(self):
         QThread.__init__(self, parent=None)
+        self.temp_dirs = list()
         if exists(temp_output_dir):
             self.temp_dirs = [pj(temp_output_dir, d) for d in os.listdir(temp_output_dir)]
 
