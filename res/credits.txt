@@ -1,0 +1,5 @@
+CCL Forensics - Leveldb code
+https://github.com/cclgroupltd/ccl_chrome_indexeddb
+
+HTML report - modified - Mike Bangham - Control-F 2021-2022
+Original HTML prior to modification: Copyright (c) Facebook, Inc. and its affiliates.
