@@ -9,19 +9,14 @@ Contact Author: mike.bangham@controlf.co.uk
 
 See examples for screenshots of GUI and reporting elements.
 
-
+-------------------------------------------------------------------------------------
 Building shomium
 
-* The simplest way to build shomium is to build the precompiled executable from /build_exe.
-
+The simplest way to build shomium is to build the precompiled executable from /build_exe.
 Due to GitHub file size restrictions, the precompiled executable: 'shomium.exe' has been broken into chunks. 
-
 Using the batch script in the /build_exe  directory found in the root of shomium, an executable can be 
-
-generated which concatenates the chunks.
-
-* Otherwise, please install all the required dependencies and use the spec.spec file provided.
-
+generated which concatenates the chunks. Otherwise, please install all the required dependencies and use 
+the spec.spec file provided.
 
 -------------------------------------------------------------------------------------
 
