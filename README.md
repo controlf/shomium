@@ -1,8 +1,8 @@
-shomium   [ v0.04 ]
+shomium   [ v0.1.2 ]
 
 Android Chromium and iOS WebKit Artefact Parser
 
-Control-F 2022
+Control-F 2022-2023
 
 -------------------------------------------------------------------------------------
 Contact Author: mike.bangham@controlf.co.uk
