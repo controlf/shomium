@@ -1,3 +1,0 @@
-This software is licensed 'as-is'.  You bear the risk of using it.  In consideration for use of the software, you agree that you have not relied upon any, and we have made no, warranties, whether oral, written, or implied, to you in relation to the software.  To the extent permitted at law, we disclaim any and all warranties, whether express, implied, or statutory, including, but without limitation, implied warranties of non-infringement of third party rights, merchantability and fitness for purpose.
-
-In no event will we be held liable to you for any loss or damage (including without limitation loss of profits or any indirect or consequential losses) arising from the use of this software."
